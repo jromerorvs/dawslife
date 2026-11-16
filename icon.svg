@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs><pattern id="hz" width="40" height="40" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)"><rect width="20" height="40" fill="#F4CF1A"/><rect x="20" width="20" height="40" fill="#0B0B0B"/></pattern></defs>
+  <rect width="512" height="512" fill="#F2F1EE"/>
+  <rect x="0" y="412" width="512" height="100" fill="url(#hz)"/>
+  <rect x="0" y="406" width="512" height="8" fill="#0B0B0B"/>
+  <text x="256" y="300" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-weight="900" font-size="230" letter-spacing="-14" fill="#0B0B0B">“D.”</text>
+</svg>
